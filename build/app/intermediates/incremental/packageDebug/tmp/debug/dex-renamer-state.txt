@@ -1,4 +1,0 @@
-#Fri Sep 22 16:50:29 IST 2023
-base.0=/Users/nitish/Development/flutter-projects/movie/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
